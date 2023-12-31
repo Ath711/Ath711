@@ -1,9 +1,16 @@
 # Hi there 👋, I'm Atharv Kulkarni
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Java%20Enthusiast;Spring%20Boot,%20Microservices,%20Docker&center=true&width=500&height=50">
+  </a>
+</p>
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Ath711&color=blue)
+
 - 🔭 I'm currently working on Spring Boot, Microservices, Docker, and RESTful APIs.
 - 🌱 I'm continuously learning and exploring new technologies.
 - 💬 Ask me about Java, Java EE, Spring Framework, and related technologies.
+- 📫 How to reach me **atharvdevelopers711@gmail.com**
 
 ## My Tech Stack
 <p align="center">
@@ -20,6 +27,3 @@
 
 ## GitHub Stats
 ![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ath711&show_icons=true&theme=dark)
-
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ath711&color=brightgreen)
