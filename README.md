@@ -26,4 +26,4 @@
 
 
 ## GitHub Stats
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ath711&show_icons=true&theme=dark)
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ath711&show_icons=true&theme=light)
