@@ -26,4 +26,4 @@
 
 
 ## GitHub Stats
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ath711&show_icons=true&theme=light)
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ath711&show_icons=true&theme=light) <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Ath711"/>
